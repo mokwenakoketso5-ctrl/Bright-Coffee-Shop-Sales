@@ -27,12 +27,21 @@ Using SQL and data visualisation skills to understand:
   
 ## Data visualisation
 - Google sheet(Pivot Tables) and Google Looker Studio(Dashboard)
-  The following charts were generated:
+  ### The following charts were generated:
 - Total sales
 - Total revenue by product category per store
 - Sales trends by time intervals
 - Top 5 products most sold products
+  ### Dashboard content
+- Total revenue
+- Daily revnue
+- Total sales
+- Revenue by day of week
+- Revenue by product category
+- Revenue by spend group
+  
 ## Presentation  
-- Canva(Slide presentation)
+ ### Canva(Slide presentation) contents
+ - Sales trends, summaries and recomendations
 - Sales trends and summaries
 - Sales recommendations 
