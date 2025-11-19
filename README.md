@@ -28,7 +28,12 @@ Using SQL and data visualisation skills to understand:
 - Miro(flow diagram)
 
 ## Coding plartform
-- SQL on Snowflake
+   ### SQL on Snowflake
+- Unique identifiers: Used COUNT DISTINCT for unique identifiers
+- Dates and time: Used DATE functions such as TODATE, TOCHAR, MONTHNAME to group the dates into days, months
+- Days and time buckets: Used CASE statements to categorise the time into time buckets and days into weekdays and weekends
+- Qualitative data: Used SUM function to calculate the revenue
+
   
 ## Data visualisation
 - Google sheet(Pivot Tables) and Google Looker Studio(Dashboard)
