@@ -3,7 +3,7 @@
 
 ## Introduction: 
 The company has recently appointed a new CEO whose mission is to grow the company's revenue and improve product performance. Dataset on the daily transactions at the different coffee shop branches was provided. 
-  ### Dataset contents
+   ### Dataset contents
   - Transaction id, date, time and quantity
   - Store locations
   - Unit price
