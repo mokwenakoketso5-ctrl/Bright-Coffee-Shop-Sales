@@ -1,11 +1,16 @@
 # Bright Coffee Sales Analysis
 
-## Purpose: 
-Business insights for a new CEO using historical transactional data from Bright Coffee Shop
-
 
 ## Introduction: 
-The company has recently appointed a new CEO whose mission is to grow the company's revene and improve product performance.As a Jnr Data Analyst, my task is to extract actionable isights from the data and prepare a presentation to assist the CEO in decesion making.
+The company has recently appointed a new CEO whose mission is to grow the company's revene and improve product performance. Dataset on the daily transactions at the different coffee shop branches was provided. 
+  ### Dataset contents
+  - Transaction id, date, time and quantity
+  - Store locations
+  - Unit price
+  - Product id, type, category and detail
+
+## Purpose: 
+As a Jnr Data Analyst, my task is to extract actionable insights from the historical transactional data and prepare a presentation to assist the CEO in decesion making.
 
 
 ## Objective: 
