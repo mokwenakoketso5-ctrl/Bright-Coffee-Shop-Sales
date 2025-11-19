@@ -10,7 +10,7 @@ The company has recently appointed a new CEO whose mission is to grow the compan
   - Product id, type, category and detail
 
 ## Purpose: 
-As a Jnr Data Analyst, my task is to extract actionable insights from the historical transactional data and prepare a presentation to assist the CEO in decesion making.
+As a Jnr Data Analyst, my task is to extract actionable insights from the historical transactions data and prepare a presentation to assist the CEO in decesion making.
 
 
 ## Objective: 
