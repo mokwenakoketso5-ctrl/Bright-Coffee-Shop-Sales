@@ -34,4 +34,5 @@ Using SQL and data visualisation skills to understand:
 - Top 5 products most sold products
 ## Presentation  
 - Canva(Slide presentation)
-
+- Sales trends and summaries
+- Sales recommendations 
