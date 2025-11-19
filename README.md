@@ -26,10 +26,12 @@ Using SQL and data visualisation skills to understand:
 - SQL on Snowflake
   
 ## Data visualisation
-- Google sheet(Pivot Tables)
-- Google Looker Studio(Dashboard)
-
+- Google sheet(Pivot Tables) and Google Looker Studio(Dashboard)
+  The following charts were generated:
+- Total sales
+- Total revenue by product category per store
+- Sales trends by time intervals
+- Top 5 products most sold products
 ## Presentation  
 - Canva(Slide presentation)
 
-Microsoft PowerPoint
